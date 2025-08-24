@@ -20,3 +20,7 @@
 [submodule "shinysocial"]
 	path = shinysocial
 	url = https://github.com/shinyworks/shinysocial
+[submodule "stbl"]
+	path = stbl
+	url = https://github.com/jonthegeek/stbl
+	registered = false
