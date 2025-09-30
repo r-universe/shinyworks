@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/shinyworks/shinyworks.r-universe.dev
 	branch = HEAD
+[submodule "chains"]
+	path = chains
+	url = https://github.com/shinyworks/chains
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/shinyworks/cookies
@@ -11,9 +14,6 @@
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/shinyworks/scenes
-[submodule "shinybatch"]
-	path = shinybatch
-	url = https://github.com/shinyworks/shinybatch
 [submodule "shinyfocus"]
 	path = shinyfocus
 	url = https://github.com/shinyworks/shinyfocus
